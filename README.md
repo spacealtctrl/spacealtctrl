@@ -28,14 +28,15 @@
   </p>
 
 <!-- START_STATS -->
-  <p align="center">
+<p align="center">
     <a href="https://github.com/spacealtctrl">
-      <img src="https://img.shields.io/badge/Total%20Stars-194-7afcff?style=flat-square&logo=github&logoColor=black" alt="Profile Stars" />
+      <img src="https://img.shields.io/badge/Total%20Stars-195-7afcff?style=flat-square&logo=github&logoColor=black" alt="Profile Stars" />
     </a>
     <a href="https://github.com/spacealtctrl">
       <img src="https://img.shields.io/badge/Total%20Forks-10-7afcff?style=flat-square&logo=github&logoColor=black" alt="Profile Forks" />
     </a>
   </p>
+
 <!-- END_STATS -->
 
   <br/>
