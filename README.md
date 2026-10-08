@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/Total%20Stars-198-7afcff?style=flat-square&logo=github&logoColor=black" alt="Profile Stars" />
     </a>
     <a href="https://github.com/spacealtctrl">
-      <img src="https://img.shields.io/badge/Total%20Forks-11-7afcff?style=flat-square&logo=github&logoColor=black" alt="Profile Forks" />
+      <img src="https://img.shields.io/badge/Total%20Forks-12-7afcff?style=flat-square&logo=github&logoColor=black" alt="Profile Forks" />
     </a>
   </p>
 
