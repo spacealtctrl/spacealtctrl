@@ -30,7 +30,7 @@
 <!-- START_STATS -->
 <p align="center">
     <a href="https://github.com/spacealtctrl">
-      <img src="https://img.shields.io/badge/Total%20Stars-210-7afcff?style=flat-square&logo=github&logoColor=black" alt="Profile Stars" />
+      <img src="https://img.shields.io/badge/Total%20Stars-209-7afcff?style=flat-square&logo=github&logoColor=black" alt="Profile Stars" />
     </a>
     <a href="https://github.com/spacealtctrl">
       <img src="https://img.shields.io/badge/Total%20Forks-19-7afcff?style=flat-square&logo=github&logoColor=black" alt="Profile Forks" />
